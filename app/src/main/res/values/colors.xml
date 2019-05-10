@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#808080</color>
+    <color name="colorPrimaryDark">#808080</color>
+    <color name="colorAccent">#808080</color>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#EEE8AA</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#EEE8AA</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#808080</color>
+
+    <!-- Background color for the hip hop playlist -->
+    <color name="category_hip_hop">#DB7093</color>
+
+    <!-- Background color for the pop playlist -->
+    <color name="category_pop">#800080</color>
+
+    <!-- Background color for the alternative rock playlist -->
+    <color name="category_alternative_rock">#4B0082</color>
+
+</resources>
